@@ -22,4 +22,4 @@ git diff
 
 ## Owner
 
-TBD
+Docs team (rotating)
